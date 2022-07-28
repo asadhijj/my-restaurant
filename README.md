@@ -19,3 +19,4 @@ _Where food is alwasy better!_
 
  ![Briyani](briyani.jpg)
  **Chicken Briyani**
+  ![wireframe](wireframe.jpg)
