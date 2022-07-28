@@ -22,10 +22,9 @@ _Where food is alwasy better!_
  **Chicken Mandi**
 
  ![Briyani](briyani.jpg)
-wireframe
+
  **Chicken Briyani**
-  ![wireframe](wireframe.jpg)
-=======
  
- **Chicken Briyani**
- main
+  ![wireframe](wireframe.jpg)
+
+ 
