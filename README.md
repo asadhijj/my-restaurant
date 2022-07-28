@@ -1,9 +1,11 @@
 # my-restaurant
 
 ![logo](res.jpg)
+
 _Where food is alwasy better!_
 
 ## Menu
+
 
 | **Dishes**     | **Prices** |
 | ------------   | ---------  |
@@ -12,11 +14,18 @@ _Where food is alwasy better!_
 | Chicken Briyani| 3.50$      |
 
 ![Masala](mk.jpg)
+
  **Chicken Masaka**
 
  ![Mandi](mandi.jpg)
+ 
  **Chicken Mandi**
 
  ![Briyani](briyani.jpg)
+wireframe
  **Chicken Briyani**
   ![wireframe](wireframe.jpg)
+=======
+ 
+ **Chicken Briyani**
+ main
