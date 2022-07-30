@@ -1,0 +1,112 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(
+      to top,
+      #1c1c1c 0%,
+      #1c1c1c 72%,
+      black 72%,
+      black 100%
+    );
+}
+h1 {
+    color: white;
+}
+
+#rogo {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    bottom: 70px;
+    left: 600px;
+   
+
+}
+
+#home {
+    position: relative;
+    bottom:120px;
+    color: white;
+}
+#menu {
+    position: relative;
+    bottom: 137px;
+    color: white;
+    left: 100px;
+}
+#preview {
+    position: relative;
+    bottom: 155px;
+    color: white;
+    left: 200px;
+}
+#about {
+    position: relative;
+    bottom:175px;
+    color: white;
+    left: 320px;
+}
+
+#own {
+    color: white;
+    font-size: x-large;
+    position: relative;
+    bottom: 150px;
+}
+
+#chef {
+    color: white;
+    position: relative;
+    bottom: 120px;
+    font-size: larger;
+}
+
+#staff {
+    position: relative;
+    color: white;
+    bottom: 100px;
+    font-size: large;
+}
+
+li#tay {
+    color: white;
+    position: relative;
+    bottom: 80px;
+}
+
+li#lady {
+    color: white;
+    position: relative;
+    bottom: 60px;
+}
+
+li#brad {
+    color: white;
+    position: relative;
+    bottom: 40px;
+}
+
+li#tom {
+    color: white;
+    position: relative;
+    bottom: 20px;
+}
+
+p#con {
+    color: white;
+    font-size: larger;
+}
+
+li#\30 7 {
+    color: white;
+}
+
+e-mail {
+    color: white;
+}
+
+p#copy {
+    color: white;
+    position: relative;
+    top: 50px;
+}
